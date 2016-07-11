@@ -1,0 +1,24 @@
+{
+  "average" : 2.3,
+  "reviews" : [
+    {
+      "productId": "P1",
+      "userId": "U1",
+      "review": "This product is rating 2.5",
+      "rating": 2.5
+    },
+    {
+    "productId": "P1",
+    "userId": "U2",
+    "review": "This product is rating 3.2",
+    "rating": 3.2
+    },
+    {
+    "productId": "P1",
+    "userId": "U3",
+    "review": "This product is rating 1.3",
+    "rating": 1.3
+    }
+  ]
+
+}

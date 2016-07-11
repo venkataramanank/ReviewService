@@ -1,0 +1,5 @@
+mongo:
+  seeds:
+  - host: localhost
+    port: 27017
+  database: commerce
